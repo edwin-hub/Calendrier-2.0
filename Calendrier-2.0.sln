@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Calendrier-2.0", "Calendrier-2.0\Calendrier-2.0\Calendrier-2.0.shproj", "{1B7045B3-EE06-4187-8423-1852266168AD}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BC1282-B02A-4B10-90C2-F40A0083414F}
+	EndGlobalSection
+EndGlobal
